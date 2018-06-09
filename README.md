@@ -2,9 +2,9 @@
 
 ### Resources
 
-*main : check the car run.;
-*app : use kakao navi to show you the parking lot map;
-*sql : use database that remains some data for checking the empty lot;
+* main : check the car run.;
+* app : use kakao navi to show you the parking lot map;
+* sql : use database that remains some data for checking the empty lot;
 
 
 ### Contributing
