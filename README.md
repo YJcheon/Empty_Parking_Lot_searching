@@ -1,15 +1,15 @@
-## OpenCV: Open Source Computer Vision Library
+## Empty parking lot service: check the empty parking lot by the CCTV video
 
 ### Resources
 
-* Homepage: <http://opencv.org>
-* Docs: <http://docs.opencv.org/master/>
-* Q&A forum: <http://answers.opencv.org>
-* Issue tracking: <https://github.com/opencv/opencv/issues>
+main : check the car run.
+app : use kakao navi to show you the parking lot map
+sql : use database that remains some data for checking the empty lot
+
 
 ### Contributing
 
-Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
+just follow the guidelines.
 
 #### Summary of the guidelines:
 
@@ -17,4 +17,3 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Choose the right base branch;
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
